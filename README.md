@@ -145,6 +145,10 @@ Fails due to binary-feature assumption on continuous data.
 
 ## 📊 Final Model Ranking
 
+
+<img width="992" height="590" alt="image" src="https://github.com/user-attachments/assets/3c121846-74e5-444e-a6a6-0178d05efa9e" />
+
+
 | Rank | Model |
 |---|---|
 1 | XGBoost (Tuned) |
