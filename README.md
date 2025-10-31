@@ -113,11 +113,10 @@ Random Forest (tuned) | `0.9050` | `0.9046` |
 
 | Rank | Model |
 |---|---|
-🥇 XGBoost (Tuned) |
-🥈 SVC |
-🥉 KNN |
-4️⃣ Random Forest (Tuned) |
-
+🥇 | XGBoost (Tuned) |
+🥈 | SVC |
+🥉 | KNN |
+4️⃣ | Random Forest (Tuned) |
 ---
 
 ## ❌ Additional Low-Performance Models (AUC < 0.5)
